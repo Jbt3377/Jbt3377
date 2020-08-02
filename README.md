@@ -1,4 +1,4 @@
-## Hi there, I'm Josh. Welcome to my Github! 
+## Hi there, I'm Josh. Welcome to my Github! 💻<img src="bongocat.gif" width="40" height="30">
 
 I'm a Software Developer currently studying BSc Computer Science @ QUB!
 
