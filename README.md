@@ -1,4 +1,4 @@
-#### Hi there, I'm Josh. Welcome to my Github! 
+## Hi there, I'm Josh. Welcome to my Github! 
 
 I'm a Software Developer currently studying BSc Computer Science @ QUB!
 
