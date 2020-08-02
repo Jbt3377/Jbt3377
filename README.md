@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there, I'm Josh. Welcome to my Github! 
 
-<!--
-**Jbt3377/Jbt3377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer currently studying BSc Computer Science @ QUB!
 
-Here are some ideas to get you started:
+#### 🌱 What I'm currently learning /  working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* C# & .NET
+* Personal Site
+
+#### 💻 Experience
+
+##### Current
+
+* Placement Software Developer @ ESO
+* Events Team @ [Queen's Computing Society](https://github.com/QCSQUB)
+
+##### Previous
+
+* President @ [Queen's Computing Society](https://github.com/QCSQUB)
+* Intern @ QLab Makerspace
+
+#### 🚀 Where to find me
+
+* [LinkedIn](https://www.linkedin.com/in/josh-beatty)
+* [Twitter](https://twitter.com/josh_bty)
