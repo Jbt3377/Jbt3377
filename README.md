@@ -5,7 +5,8 @@ I'm a Software Developer currently studying BSc Computer Science @ QUB!
 #### 🌱 What I'm currently learning /  working on
 
 * C# & .NET
-* Personal Site
+* Discord Bot (using DiscordJS)
+* Preping for Tech Talk
 
 #### 💻 Experience
 
