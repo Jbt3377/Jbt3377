@@ -1,11 +1,13 @@
 ## Hi there, I'm Josh. Welcome to my Github! 💻<img src="https://media.giphy.com/media/TJa4WihHukjOgbSep1/giphy.gif" width="40" height="30">
 
-I'm a Software Developer currently studying BSc Computer Science @ QUB!
+I'm a Software Developer currently studying BSc Computer Science @ QUB
 
 #### 🌱 What I'm currently learning /  working on
 
-* Java + MongoDB
-* Discord Bot (in NodeJs)
+* C# / .NET
+* Properly Debugging
+* IIS
+* SQL Scripts
 
 #### 💻 Experience
 
